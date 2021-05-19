@@ -7,8 +7,10 @@
 - 😄 Tembién me gusta hacer lettering, cocinar y tocar la Viola.
 
 ## Me puedes contactar por
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kidaniland/kidaniland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdcvillas/)
 
 ## Lenguaje y herramientas
+
 
 ## Actividad en GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/kidaniland/github-readme-stats)
