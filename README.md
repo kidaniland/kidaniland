@@ -10,4 +10,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kidaniland/kidaniland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdcvillas/)
 
 ## Lenguaje y herramientas
-![javascript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![ReactJs](https://img.icons8.com/color/48/000000/react-native.png) 
+![javascript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![ReactJs](https://img.icons8.com/color/48/000000/react-native.png) ![Node Js](https://img.icons8.com/color/48/000000/nodejs.png)
