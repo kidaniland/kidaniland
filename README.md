@@ -2,8 +2,8 @@
 
 ## Frontend Developer con bases en Marketing Digital
 - 🌱 Actualmente estoy aprendiendo jQuery y profundizando más CSS.
-- ⚡ Busco hacer realidad las interfaces de usuario, desde el código.
-- 👯 Mi objetivo para terminar este 2021 crear nuevos template para las landing page a mi cargo.
+- ⚡ Busco hacer realidad las interfaces de usuario desde el código.
+- Mi objetivo para terminar este 2022 es dominar SASS y animaciones en CSS
 - 😄 Tembién me gusta hacer lettering, cocinar, leer y tocar la Viola.
 
 ## Me puedes contactar por
