@@ -1,9 +1,9 @@
 ### Hola a todos!, soy María Villa 👋
 
 ## Frontend Developer con bases en Marketing Digital
-- 🌱 Actualmente estoy aprendiendo jQuery y profundizando más CSS.
+- 🌱 Actualmente estoy profundizando mis conocimientos en React.
 - ⚡ Busco hacer realidad las interfaces de usuario desde el código.
-- Mi objetivo para terminar este 2022 es dominar SASS y animaciones en CSS
+- Mi objetivo para terminar este 2023 es hacer mejorar mi repositorio e implementar test unitario en mis proyectos.
 - 😄 Tembién me gusta hacer lettering, cocinar, leer y tocar la Viola.
 
 ## Me puedes contactar por
