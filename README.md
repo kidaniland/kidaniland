@@ -4,7 +4,7 @@
 - 🌱 Actualmente estoy profundizando mis conocimientos en React + Tailwind CSS.
 - ⚡ Busco hacer realidad las interfaces de usuario desde el código.
 - Mi objetivo para terminar este 2024 es hacer mejorar mi repositorio e implementar test unitario en mis proyectos.
-- 😄 También me gusta hacer lettering, cocinar, leer y tocar la Viola.
+- También me gusta hacer lettering, cocinar, leer y tocar la Viola.
 
 ## Me puedes contactar por
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kidaniland/kidaniland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdcvillas/)
